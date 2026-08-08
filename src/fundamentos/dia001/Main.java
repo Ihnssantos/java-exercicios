@@ -1,4 +1,4 @@
-package fundamentos.dia0001;
+package fundamentos.dia001;
 
 import java.util.Scanner;
 
