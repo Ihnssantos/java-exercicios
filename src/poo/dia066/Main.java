@@ -5,6 +5,6 @@ public class Main {
 
         Pessoa pessoa1 = new Pessoa("Igor", 25);
 
-        System.out.println("Nome: " + pessoa1.nome);
+        //System.out.println("Nome: " + pessoa1.nome); não permite exibir devido os atributos da classe pessoa ser private
     }
 }
