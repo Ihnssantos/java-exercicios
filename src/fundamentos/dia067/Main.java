@@ -88,7 +88,7 @@ public class Main {
         //-------------------------------------------------
 
 
-        //ESTRUTURA CONDICIONAL
+        //ESTRUTURA DE REPETIÇÃO
 
         //For -> inicialização; condição; incremento
         for (int i = 0; i < 10; i++) {
